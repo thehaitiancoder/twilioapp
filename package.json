@@ -1,0 +1,24 @@
+{
+  "name": "firsttwilio",
+  "version": "1.0.0",
+  "description": "Trying out Twilo API for sending and receiving SMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "thehaitiancoder"
+  },
+  "keywords": [
+    "twilio"
+  ],
+  "author": "thehaitiancoder",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "twilio": "^3.41.1"
+  }
+}
